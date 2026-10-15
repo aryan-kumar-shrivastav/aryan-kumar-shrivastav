@@ -1,24 +1,102 @@
 {
   "_help": "Edit 'solved' (and 'total' to match your sheet) by hand or with: python scripts/update_dsa_tracker.py --set \"Arrays=12\" --total \"Arrays=40\"",
   "topics": [
-    {"name": "Learn the Basics", "solved": 0, "total": null},
-    {"name": "Sorting", "solved": 0, "total": null},
-    {"name": "Arrays", "solved": 0, "total": null},
-    {"name": "Binary Search", "solved": 0, "total": null},
-    {"name": "Strings", "solved": 0, "total": null},
-    {"name": "Linked List", "solved": 0, "total": null},
-    {"name": "Recursion", "solved": 0, "total": null},
-    {"name": "Bit Manipulation", "solved": 0, "total": null},
-    {"name": "Stack and Queues", "solved": 0, "total": null},
-    {"name": "Sliding Window & Two Pointer", "solved": 0, "total": null},
-    {"name": "Heaps", "solved": 0, "total": null},
-    {"name": "Greedy", "solved": 0, "total": null},
-    {"name": "Binary Trees", "solved": 0, "total": null},
-    {"name": "Binary Search Trees", "solved": 0, "total": null},
-    {"name": "Graphs", "solved": 0, "total": null},
-    {"name": "Dynamic Programming", "solved": 0, "total": null},
-    {"name": "Tries", "solved": 0, "total": null}
+    {
+      "name": "Learn the Basics",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Sorting",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Arrays",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Binary Search",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Strings",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Linked List",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Recursion",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Bit Manipulation",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Stack and Queues",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Sliding Window & Two Pointer",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Heaps",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Greedy",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Binary Trees",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Binary Search Trees",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Graphs",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Dynamic Programming",
+      "solved": 0,
+      "total": null
+    },
+    {
+      "name": "Tries",
+      "solved": 0,
+      "total": null
+    }
   ],
-  "summary": {},
-  "history": []
+  "summary": {
+    "striver_solved": 0,
+    "striver_total": null,
+    "percent": null
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "leetcode": 9,
+      "striver": 0
+    }
+  ]
 }
