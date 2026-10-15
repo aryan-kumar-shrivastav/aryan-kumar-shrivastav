@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi, I'm Aryan Kumar Shrivastav 👋</h1>
 <p align="center"><em>DSA · Cybersecurity · Learning in public</em></p>
 
 ## 📈 Live progress
