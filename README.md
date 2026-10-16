@@ -22,7 +22,7 @@
 | Rank | Noob |
 | Points | 0 |
 | User / System owns | 0 / 0 |
-| Profile | [AARYAN747](https://app.hackthebox.com/profiles/YOUR_HTB_USER_ID) |
+| Profile | [AARYAN747](https://app.hackthebox.com/users/4097253) |
 
 🌐 **[Full portfolio](https://aryan-kumar-shrivastav.github.io/aryan-kumar-shrivastav/)** · _synced 2026-10-15_
 <!--STATS:END-->
