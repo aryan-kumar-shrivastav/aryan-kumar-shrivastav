@@ -31,7 +31,7 @@ def fetch(user_id, token):
         "points": p.get("points"),
         "user_owns": p.get("user_owns"),
         "system_owns": p.get("system_owns"),
-        "profile_url": f"https://app.hackthebox.com/profiles/{user_id}",
+        "profile_url": f"https://app.hackthebox.com/users/{user_id}",
     }
 
 
